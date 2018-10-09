@@ -1,6 +1,6 @@
-token=NDkwMTYyMzM0NDMwMzk2NDY2.Dn1S9w.w_ROek5emnmW9NcXK7xhaJ-0VRg
-owner=485380710656507914
-prefix=2
-game=NIGHT Bots!
+token=NDk5Mjk0OTMyNzU4OTU0MDA0.Dp6OCA.v-T9nBg-3KAnW8N7XI_OIy11uXg
+owner=354592425924362250
+prefix=3
+game=# G1' Community
 stayinchannel=true
 songinstatus=true
